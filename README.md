@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm passionate about software engineering and machine learning.
 
-<h1 align="center">Hi 👋, I'm Deo Gratias Bibila</h1>
+<h1 align="center">Hi 👋, I'm Deo Bibila</h1>
 <h3 align="center">I am an engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deogratias99&label=Profile%20views&color=0e75b6&style=flat" alt="deogratias99" /> </p>
