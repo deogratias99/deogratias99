@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about software engineering and mach
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deogratias99&label=Profile%20views&color=0e75b6&style=flat" alt="deogratias99" /> </p>
 
-- 🔭 I’m currently working on **[Your Project]**
+- 🔭 I’m currently working on **Getting a new job**
 
 - 🌱 I’m currently learning computing systems and machine learning
 
