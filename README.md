@@ -11,21 +11,21 @@ Welcome to my GitHub profile! I'm passionate about Software engineering and Mach
 
 - 🌱 I’m currently learning Computing systems and Machine learning
 
-- 👯 I’m wanting to work on infra, or computing systems.
+- 👯 I’m wanting to work on infra,computing systems or anything backend really.
 
 - 🤝 I’m looking for uh a new job in tech lol)
 
-- 💬 Ask me about uh uh whatever you want:)
+- 💬 Ask me about my favorite animated movie, anyway it's the amazing world of gumball :)
 
 - 📫 How to reach me
-   deo@deobibila.tech
+   deo@deobibila.tech or deobibila@outlook.com
 
 - ⚡ Fun fact
   I speak two languages, but you'll never guess which one
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/deobibila" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="[Your LinkedIn]" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/deobibila" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="[https://www.linkedin.com/in/deobibila/]" height="30" width="40" /></a>
 <a href="https://twitter.com/[Your Twitter]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="[Your Twitter]" height="30" width="40" /></a>
 </p>
 
