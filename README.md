@@ -1,8 +1,8 @@
-# Hi there, I'm Deo! 👋
+# Hi there, I'm Deo! Pronounced (Dio) 👋
 
 Welcome to my GitHub profile! I'm passionate about Software engineering and Machine learning.
 
-<h1 align="center">Hi 👋, I'm Deo Bibila</h1>
+<h1 align="center">¡Hola! 👋, Hello!👋, Salut!👋</h1>
 <h3 align="center">I am an engineer at heart</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deogratias99&label=Profile%20views&color=0e75b6&style=flat" alt="deogratias99" /> </p>
