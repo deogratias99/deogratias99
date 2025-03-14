@@ -1,6 +1,6 @@
 # Hi there, I'm Deo! 👋
 
-Welcome to my GitHub profile! I'm passionate about software engineering and machine learning.
+Welcome to my GitHub profile! I'm passionate about Software engineering and Machine learning.
 
 <h1 align="center">Hi 👋, I'm Deo Bibila</h1>
 <h3 align="center">I am an engineer at heart</h3>
