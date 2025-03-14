@@ -9,11 +9,11 @@ Welcome to my GitHub profile! I'm passionate about software engineering and mach
 
 - 🔭 I’m currently working on **Getting a new job**
 
-- 🌱 I’m currently learning computing systems and machine learning
+- 🌱 I’m currently learning Computing systems and Machine learning
 
-- 👯 I’m looking to collaborate on interesting things.
+- 👯 I’m wanting to work on infra, or computing systems.
 
-- 🤝 I’m looking for help with nothing for now:)
+- 🤝 I’m looking for uh a new job in tech lol)
 
 - 💬 Ask me about uh uh whatever you want:)
 
@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm passionate about software engineering and mach
 <h3 align="left">Top Projects:</h3>
 <p align="left">
 <a href="https://github.com/deogratias99/Hotel-Booking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deogratias99&repo=Hotel-Booking"/></a>
-<a href="https://github.com/deogratias99/project2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deogratias99&repo=project2" /></a>
+<a href="https://github.com/deogratias99/python-jupyter-book-recommendation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deogratias99&repo=python-jupyter-book-recommendation" /></a>
 </p>
 
 ## 🌟 Projects
