@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm passionate about software engineering and mach
 
 <h3 align="left">Top Projects:</h3>
 <p align="left">
-<a href="https://github.com/deogratias99/Hotel-Booking"></a>
+<a href="https://github.com/deogratias99/Hotel-Booking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deogratias99&repo=project2"/></a>
 <a href="https://github.com/deogratias99/project2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deogratias99&repo=project2" /></a>
 </p>
 
