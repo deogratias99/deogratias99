@@ -49,6 +49,5 @@ Welcome to my GitHub profile! I'm passionate about software engineering and mach
 
 ## 🌟 Projects
 
-- [Project 1](https://github.com/deogratias99/project1):  Project 1.
-- [Project 2](https://github.com/deogratias99/project2): Project 2.
+- [Hotel Booking](https://github.com/deogratias99/Hotel-Booking): Check availability and rent a hotel room ().
 
