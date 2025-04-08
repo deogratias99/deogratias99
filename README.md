@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about Software engineering and Mach
 
 - 🌱 I’m currently learning Computing systems and Machine learning
 
-- 👯 I’m wanting to work on infra,computing systems or anything backend really.
+- 👯 I’m wanting to work on infra,computing systems or anything backend related.
 
 - 🤝 I’m looking for uh a new job in tech lol)
 
