@@ -7,13 +7,13 @@ Welcome to my GitHub profile! I'm passionate about Software engineering and Mach
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deogratias99&label=Profile%20views&color=0e75b6&style=flat" alt="deogratias99" /> </p>
 
-- 🔭 I’m currently working on **Getting a new job**
+- 🔭 I’m currently working on a Flight Deals Tracker Site
 
 - 🌱 I’m currently learning Computing systems and Machine learning
 
 - 👯 I’m wanting to work on infra,computing systems or anything backend related.
 
-- 🤝 I’m looking for uh a new job in tech lol)
+- 🤝 I’m working on open source projects 
 
 - 💬 Ask me about my favorite animated movie, anyway it's the amazing world of gumball :)
 
