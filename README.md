@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm passionate about Software engineering and Mach
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/deobibila" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="[https://www.linkedin.com/in/deobibila/]" height="30" width="40" /></a>
-<a href="https://twitter.com/[Your Twitter]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="[Your Twitter]" height="30" width="40" /></a>
+<a href="https://x.com/deobibila" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="deobibila" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
